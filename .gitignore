@@ -1,0 +1,9 @@
+node_modules/
+client/node_modules/
+client/dist/
+.env
+.env.a2a
+keys/*.pem
+keys/*.key
+*.log
+.DS_Store
